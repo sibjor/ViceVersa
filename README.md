@@ -1,9 +1,9 @@
-# Core610
+# core610
 
 This is a visualization of my kernel fantasy!
 Enjoy!
 
-``m̀ermaid
+```mermaid
 ---
 config:
   theme: redux
