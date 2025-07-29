@@ -1,6 +1,7 @@
 # core610
 
-This is a visualization of my kernel fantasy!
+This is a visualization of my kernel fantasy.. It almost looks like the holy grail!
+
 Enjoy!
 
 ```mermaid
