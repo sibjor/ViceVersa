@@ -10,8 +10,8 @@ config:
   theme: redux
 ---
 flowchart TD
-    6("Core610") <--> Ö("BIOS/UEFI")
-    K("General") <--> 6
+    6("SpellShell") <--> Ö("Core610 OS")
+    K("GeneralSyntax") <--> 6
     L("MarkupSB") <--> 6
     D("Javascript") <--> 6
     J("Typescript") <--> 6
@@ -32,6 +32,23 @@ flowchart TD
     B("HTML") <--> 6
     R("Markdown") <--> 6
     S("Python") <--> 6
-    Z("Device Drivers") <--> 6
+    Z("Hardware Drivers") <--> 6
+
+    9("OSI") <--> 6
+    10("EnterNet") <--> 9
+    11("VersionNet") <--> 10
+    12("WeatherNet") <--> 10
+    13("AuthorNet") <--> 10
+    14("KnowledgeNet") <--> 10
+    15("PayNet") <--> 10
+    16("ServiceNet") <--> 10
+    17("PrivNet") <--> 10
+    18("AdviseNet") <--> 10
+    19("AudioNet") <--> 10
+    20("ArtNet") <--> 10
+    31("FeedNet") <--> 10
+    32("DevNet") <--> 10
+    33("610 Service") <--> 16
+    34("LiveRadio") <--> 19
     
 ```
