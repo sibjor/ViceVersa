@@ -48,7 +48,7 @@ flowchart TD
     20("ArtNet") <--> 10
     31("FeedNet") <--> 10
     32("DevNet") <--> 10
-    33("610 Service") <--> 16
+    33("core610 Service") <--> 16
     34("LiveRadio") <--> 19
     
 ```
