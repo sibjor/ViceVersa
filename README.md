@@ -1,6 +1,6 @@
 # core610
 
-This is a visualization of my kernel fantasy.. It almost looks like the holy grail!
+This is a visualization of a fantasy of mine.. A future OS & Kernel featuring a dedicated network. It almost looks like the holy grail!
 
 Enjoy!
 
